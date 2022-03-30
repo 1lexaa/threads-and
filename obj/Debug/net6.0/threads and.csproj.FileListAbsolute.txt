@@ -1,0 +1,15 @@
+/Users/1lexaa/Documents/учеба/threads and/bin/Debug/net6.0/threads and
+/Users/1lexaa/Documents/учеба/threads and/bin/Debug/net6.0/threads and.deps.json
+/Users/1lexaa/Documents/учеба/threads and/bin/Debug/net6.0/threads and.runtimeconfig.json
+/Users/1lexaa/Documents/учеба/threads and/bin/Debug/net6.0/threads and.dll
+/Users/1lexaa/Documents/учеба/threads and/bin/Debug/net6.0/threads and.pdb
+/Users/1lexaa/Documents/учеба/threads and/obj/Debug/net6.0/threads and.csproj.AssemblyReference.cache
+/Users/1lexaa/Documents/учеба/threads and/obj/Debug/net6.0/threads and.GeneratedMSBuildEditorConfig.editorconfig
+/Users/1lexaa/Documents/учеба/threads and/obj/Debug/net6.0/threads and.AssemblyInfoInputs.cache
+/Users/1lexaa/Documents/учеба/threads and/obj/Debug/net6.0/threads and.AssemblyInfo.cs
+/Users/1lexaa/Documents/учеба/threads and/obj/Debug/net6.0/threads and.csproj.CoreCompileInputs.cache
+/Users/1lexaa/Documents/учеба/threads and/obj/Debug/net6.0/threads and.dll
+/Users/1lexaa/Documents/учеба/threads and/obj/Debug/net6.0/refint/threads and.dll
+/Users/1lexaa/Documents/учеба/threads and/obj/Debug/net6.0/threads and.pdb
+/Users/1lexaa/Documents/учеба/threads and/obj/Debug/net6.0/threads and.genruntimeconfig.cache
+/Users/1lexaa/Documents/учеба/threads and/obj/Debug/net6.0/ref/threads and.dll
